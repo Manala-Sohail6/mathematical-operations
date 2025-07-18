@@ -55,12 +55,12 @@ int main() {<br>
     cin >> n;<br>
 
     cout << "Sum = " << sum(a, b) << endl; 
-    <br>
+    
     cout << "Product = " << product(a, b) << endl; 
 
-    <br>
+    
     divide(a, b);
-    <br>
+    
     cout << "Factorial = " << factorial(n) << endl;
 <br>
     return 0;
